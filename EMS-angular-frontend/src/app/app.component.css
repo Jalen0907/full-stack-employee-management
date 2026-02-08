@@ -1,0 +1,17 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background-color: #f0f0f0; /* light grey */
+}
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    
+    background-color: #171717;
+    color: black;
+}
+
+
