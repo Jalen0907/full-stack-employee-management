@@ -3,7 +3,6 @@
 A full-stack web application to **manage employee records** efficiently.  
 Built with **Angular** for the frontend and **Spring Boot** for the backend.
 
-################################################################################
 
 ## ✨ Features
 
@@ -13,7 +12,6 @@ Built with **Angular** for the frontend and **Spring Boot** for the backend.
 - 🗑️ Delete employees  
 - 📱 Responsive user interface  
 
-##################################################################################
 
 ## 🛠 Technologies Used
 
@@ -34,7 +32,6 @@ Built with **Angular** for the frontend and **Spring Boot** for the backend.
 - RESTful APIs  
 - HTTP Client (Angular)  
 
-#################################################################################
 
 ## 📂 Project Structure
 
@@ -90,7 +87,6 @@ ng serve
 
 Frontend runs at: http://localhost:4200
 
-##################################################################################
 
 🤝 Contributing
 
